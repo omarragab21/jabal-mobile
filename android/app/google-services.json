@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386276406246",
+    "project_id": "jabal-3e49e",
+    "storage_bucket": "jabal-3e49e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386276406246:android:0a31aeecdb1dc30315dc27",
+        "android_client_info": {
+          "package_name": "com.bekite.drjabel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386276406246-ho5o3u9353u3b77kipivq0dqg8vmpcg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvD4KI0oDEoGX5g34z5e7gK20WLWCLWmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386276406246-ho5o3u9353u3b77kipivq0dqg8vmpcg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

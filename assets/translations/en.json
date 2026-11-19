@@ -1,0 +1,511 @@
+{
+  "splash": {
+    "title": "Dr Jabal",
+    "tagline": "Trusted healthcare in Jordan",
+    "footer": "Made in Jordan with love ❤️"
+  },
+  "onboarding": {
+    "skip": "Skip",
+    "switch_language": "العربية",
+    "next": "Next",
+    "start": "Get started",
+    "page1": {
+      "title": "Your pharmacy is closer than you think",
+      "description": "Order your medicines and care products easily, and choose from the nearest pharmacy."
+    },
+    "page2": {
+      "title": "Upload your prescription in seconds",
+      "description": "Snap your prescription and send it securely, and the pharmacist will review it and prepare your order."
+    },
+    "page3": {
+      "title": "Your medicine, always on time",
+      "description": "Turn on dose reminders and track your order until it quickly reaches your door."
+    }
+  },
+  "auth": {
+    "coming_soon": "Coming soon",
+    "fields": {
+      "phone": "Phone number",
+      "phone_hint": "Enter your phone number ...",
+      "password": "Password",
+      "password_hint": "Enter your password",
+      "type_here": "Type here ..."
+    },
+    "login": {
+      "title": "Log in",
+      "button": "Log in",
+      "forgot_password": "Forgot password?",
+      "no_account": "Don't have an account?",
+      "create_account": "Create account"
+    },
+    "register": {
+      "title": "Create account",
+      "full_name": "Full name",
+      "email": "Email",
+      "send_code": "Send verification code",
+      "have_account": "Already have an account?",
+      "sign_in": "Log in"
+    },
+    "otp": {
+      "title": "Verification code",
+      "sent": "A 4-digit code was sent to {phone}",
+      "wrong": "No worries, maybe a digit is wrong. Try again 😊",
+      "didnt_receive": "Didn't get the code?",
+      "resend_in": "Resend in",
+      "resend": "Resend"
+    },
+    "country": {
+      "title": "Select country",
+      "search": "Search country or code",
+      "empty": "No results"
+    },
+    "errors": {
+      "invalid_credentials": "Wrong phone number or password",
+      "user_not_found": "No account with this number",
+      "phone_taken": "This number is already registered",
+      "network": "Check your internet connection",
+      "unknown": "Something went wrong, please try again"
+    },
+    "blocked": {
+      "title": "Can't complete login",
+      "message": "Login isn't available for this number right now.",
+      "contact_support": "Contact support"
+    }
+  },
+  "validation": {
+    "required": "This field is required",
+    "tooShort": "Must be at least {min} characters",
+    "tooLong": "Must be at most {max} characters",
+    "invalidCharacters": "Contains characters that aren't allowed",
+    "invalidFormat": "Invalid format",
+    "hasWhitespace": "Must not contain spaces",
+    "repeatedCharacters": "Too many repeated characters (like aaa)",
+    "noUppercase": "Add an uppercase letter (A-Z)",
+    "noLowercase": "Add a lowercase letter (a-z)",
+    "noDigit": "Add at least one number",
+    "noSpecialChar": "Add at least one symbol like ! @ #",
+    "commonPassword": "This password is too common, pick another",
+    "sequentialCharacters": "Avoid sequences like 1234 or abcd",
+    "containsPersonalInfo": "Don't use your name, email or phone in the password",
+    "invalidPhone": "This phone number isn't valid for the selected country",
+    "notMobileNumber": "Enter a mobile number, not a landline",
+    "wrongLength": "Must be exactly {length} digits",
+    "name": {
+      "required": "Name is required",
+      "tooShort": "Name is too short",
+      "tooLong": "Name is too long",
+      "invalidCharacters": "Name can only contain letters",
+      "repeatedCharacters": "Enter your name correctly"
+    },
+    "email": {
+      "required": "Email is required",
+      "invalidFormat": "Enter a valid email",
+      "tooLong": "Email is too long",
+      "hasWhitespace": "Email can't contain spaces"
+    },
+    "phone": {
+      "required": "Phone number is required"
+    },
+    "password": {
+      "required": "Password is required",
+      "tooShort": "Password must be at least {min} characters"
+    },
+    "card_number": {
+      "required": "Card number is required",
+      "wrongLength": "The card number must be {length} digits",
+      "invalidCardNumber": "The card number is not valid"
+    },
+    "expiry": {
+      "required": "Expiry date is required",
+      "invalidFormat": "Enter the date as MM/YY",
+      "cardExpired": "This card has expired"
+    },
+    "cvv": {
+      "required": "Security code is required",
+      "invalidCharacters": "The security code is digits only",
+      "wrongLength": "The security code is {length} digits"
+    },
+    "card_nickname": {
+      "tooLong": "The nickname is too long (max {max} characters)"
+    },
+    "address_title": {
+      "required": "The address name is required",
+      "tooShort": "The name is too short",
+      "tooLong": "The name is too long"
+    },
+    "address_place": {
+      "required": "This field is required",
+      "tooLong": "The text is too long"
+    },
+    "address_number": {
+      "required": "This field is required",
+      "tooLong": "The value is too long"
+    },
+    "address_instructions": {
+      "tooLong": "The notes are too long"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "categories": "Categories",
+    "cart": "Cart",
+    "orders": "My orders",
+    "account": "Account"
+  },
+  "account": {
+    "logout": "Log out",
+    "personal_info": "Personal information",
+    "addresses": "Delivery addresses",
+    "payment_cards": "Payment cards",
+    "support": "Support and assistance",
+    "policies": "Policies",
+    "community": "Join the Jabel community",
+    "about": "About the app",
+    "share": "Share the app"
+  },
+  "home": {
+    "search_hint": "Search for a product ...",
+    "clear_search": "Clear search",
+    "ask_pharmacist": "Ask the pharmacist",
+    "ask_beautician": "Ask a beauty specialist",
+    "all_categories": "All categories",
+    "add_to_cart": "Add to cart",
+    "added_to_cart": "“{}” was added to your cart",
+    "add_favorite": "Add to favourites",
+    "remove_favorite": "Remove from favourites",
+    "see_all": "See all",
+    "currency": "JOD",
+    "error": "Could not load the home page",
+    "retry": "Try again",
+    "search_error": "Search failed, please try again",
+    "no_results": "No products match “{}”",
+    "coming_soon": "This service is coming soon",
+    "all": "All",
+    "empty_category": "No products in this category",
+    "ask_pharmacist_message": "Hello, I would like to ask a pharmacist",
+    "ask_beautician_message": "Hello, I would like to ask a beauty specialist",
+    "whatsapp_failed": "Could not open WhatsApp. Make sure it is installed and try again"
+  },
+  "address": {
+    "deliver_to": "Deliver to",
+    "where_to_deliver": "Where do you want it delivered?",
+    "unsaved_location": "an unsaved location",
+    "hint_choose_address": "For a better experience and to show the nearest pharmacy",
+    "hint_unsaved_location": "The address you chose is different from your current location. Are you sure about the delivery address?",
+    "search_on_map": "Search on the map",
+    "use_current_location": "Use current location",
+    "add_new_address": "Add a new address",
+    "delivery_addresses": "Delivery addresses",
+    "search_hint": "Search for an area or a street",
+    "clear_search": "Clear search",
+    "confirm_location": "Confirm location",
+    "not_deliverable": "Sorry, delivery is not available in this area right now. Please choose another location",
+    "address_not_found": "Could not find an address for this spot",
+    "no_results": "No matching results",
+    "search_error": "Search failed, please try again",
+    "location_permission_denied": "Location access was not allowed. Enable it in the device settings",
+    "location_disabled": "Location services are off. Turn them on in the device settings",
+    "location_failed": "Could not get your current location",
+    "form": {
+      "title": "Address details",
+      "apartment": "Apartment",
+      "house": "House",
+      "office": "Office",
+      "other": "Other",
+      "name": "Address name",
+      "name_hint": "e.g. My Home",
+      "default_apartment": "My Apartment",
+      "default_house": "My Home",
+      "default_office": "Office",
+      "default_other": "Other",
+      "building": "Building name",
+      "floor": "Floor",
+      "apartment_number": "Apartment number",
+      "house_number": "House number",
+      "office_number": "Office number",
+      "place": "Describe the place",
+      "instructions": "Notes for the courier (optional)",
+      "instructions_hint": "e.g. The bell is broken, call me",
+      "save": "Save address",
+      "delete": "Delete address",
+      "delete_title": "Are you sure you want to delete the address?",
+      "delete_message": "After deleting it you will not be able to use this address for your orders.",
+      "delete_confirm": "Yes, delete the address",
+      "cancel": "Cancel"
+    },
+    "no_addresses": "No saved addresses yet. Add one for faster delivery",
+    "current": "Current"
+  },
+  "sections": {
+    "error": "Could not load the sections",
+    "empty": "There are no sections yet"
+  },
+  "profile": {
+    "personal_info": "Personal information",
+    "full_name": "Full name",
+    "full_name_hint": "Enter your full name",
+    "email": "E-mail",
+    "email_hint": "name@example.com",
+    "email_helper": "Invoices and order details will be sent to your e-mail",
+    "phone": "Mobile number",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "choose_gender": "Choose your gender",
+    "birth_date": "Birth date",
+    "not_set": "Not set",
+    "edit_name": "Edit name",
+    "edit_email": "Edit e-mail",
+    "edit_phone": "Edit mobile number",
+    "save": "Save",
+    "send_code": "Send code",
+    "code_sent": "A 4-digit code was sent to {phone}",
+    "phone_same": "This is already your mobile number",
+    "save_failed": "Could not save your changes, try again"
+  },
+  "cards": {
+    "title": "Payment cards",
+    "empty": "No saved cards yet. Add a card to check out faster",
+    "add_card": "Add a new card",
+    "add_title": "Add a card",
+    "number": "Card number",
+    "expiry": "Expiry date",
+    "cvv": "Security code",
+    "add_action": "Add card",
+    "privacy_note": "We never keep your full card number or security code.",
+    "verifying": "Verifying your card",
+    "save_failed": "Could not save the card, try again",
+    "expires": "Expires",
+    "add_nickname": "Add a nickname",
+    "edit_nickname": "Edit nickname",
+    "nickname": "Card nickname",
+    "nickname_hint": "Enter a nickname (optional)",
+    "save": "Save",
+    "delete_card": "Delete card",
+    "delete_title": "Are you sure you want to delete your card?",
+    "delete_message": "After deleting it you will not be able to use this card for your orders.",
+    "delete_confirm": "Yes, delete the card",
+    "cancel": "Cancel"
+  },
+  "support": {
+    "title": "Support and assistance",
+    "whatsapp": "WhatsApp",
+    "email": "E-mail",
+    "phone": "Call customer service",
+    "none": "No contact channels are available right now",
+    "open_failed": "Could not open the link",
+    "community_title": "Join the Jabel community",
+    "follow_us": "Follow us",
+    "share_title": "Share with your loved ones via ...",
+    "share_message": "Try the Dr Jabal app for medicines and health products"
+  },
+  "legal": {
+    "policies": "Policies",
+    "terms": "Terms and conditions",
+    "privacy": "Privacy policy",
+    "about": "About the app",
+    "app_name": "Dr Jabal",
+    "version": "Version",
+    "about_text": "Dr Jabal is the app of Jabel Pharmacies: order your medicines and health and care products, ask the pharmacist, and we deliver them quickly and safely.",
+    "error": "Could not load the text"
+  },
+  "settings": {
+    "title": "Settings",
+    "notifications": "Notification settings",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "notifications_on": "Notifications turned on",
+    "notifications_off": "Notifications turned off",
+    "language": "App language",
+    "language_title": "Preferred app language",
+    "apply": "Apply",
+    "night_mode": "Night mode",
+    "coming_soon": "Coming soon",
+    "delete_account": "Delete my account",
+    "delete_title": "Are you sure you want to delete your account?",
+    "delete_message": "After deleting your account, all your data is permanently deleted and cannot be recovered.",
+    "delete_confirm": "Yes, delete my account",
+    "cancel": "Cancel",
+    "delete_failed": "Could not delete the account, try again"
+  },
+  "orders": {
+    "tab_current": "Current orders",
+    "tab_previous": "Previous orders",
+    "items_count": "{count} items",
+    "quantity": "Quantity: {count}",
+    "currency": "JOD",
+    "details_title": "Order details",
+    "help": "Help",
+    "products": "Products",
+    "view_invoice": "View invoice",
+    "invoice_title": "Tax invoice",
+    "status": {
+      "pending_approval": "Under review",
+      "in_preparation": "Preparing",
+      "on_the_way": "On the way",
+      "delivered": "Delivered",
+      "cancelled": "Cancelled"
+    },
+    "banner": {
+      "pending_approval": "Waiting for your order to be approved",
+      "in_preparation": "We are preparing your order",
+      "on_the_way": "The courier is on the way to you",
+      "delivered": "Your order has arrived, we wish you happy moments!",
+      "cancelled_by_customer": "Your order was cancelled at your request",
+      "cancelled_by_store": "The order was cancelled by the store"
+    },
+    "delivery": {
+      "title": "Delivery details",
+      "searching": "Looking for a courier",
+      "searching_hint": "A courier is assigned as preparation nears its end",
+      "courier": "Delivery courier",
+      "expected_arrival": "Expected arrival",
+      "minutes": "{count} minutes",
+      "share_code": "Share this code with the courier when receiving the gift"
+    },
+    "recipient": {
+      "title": "Recipient information",
+      "gift_recipient": "Gift recipient",
+      "address": "Address"
+    },
+    "payment": {
+      "title": "Payment summary",
+      "credit_card": "Credit card",
+      "cash": "Cash on delivery",
+      "paid": "Paid",
+      "unpaid": "Unpaid",
+      "subtotal": "Subtotal",
+      "delivery_fee": "Delivery fee",
+      "discounts": "Discounts",
+      "total": "Total amount"
+    },
+    "timeline": {
+      "title": "Order progress",
+      "received": "Order received",
+      "awaiting_store": "Waiting for store approval",
+      "accepted": "Order accepted",
+      "preparing": "Preparing the order",
+      "handed_to_courier": "Handed to the delivery courier",
+      "delivered": "Delivered",
+      "cancelled": "Order cancelled"
+    },
+    "cancel": {
+      "action": "Cancel order",
+      "title": "Are you sure you want to cancel the order?",
+      "message": "If you cancel the order now, the amount is refunded to your wallet as long as the store has not started preparing the gift.",
+      "remaining": "Time left to cancel: {time}",
+      "keep": "Keep order",
+      "confirm": "Cancel order"
+    },
+    "toast": {
+      "cancelled_refunded": "Order cancelled and the amount refunded to your wallet",
+      "cancel_failed": "Could not cancel the order, try again"
+    },
+    "empty_current": {
+      "title": "No orders yet",
+      "message": "Send your first gift to make a special moment",
+      "action": "Discover products"
+    },
+    "empty_previous": {
+      "title": "No previous orders",
+      "message": "All the orders you have sent will show up here",
+      "action": "Browse products"
+    }
+  },
+  "product_details": {
+    "viewers_now": "viewing now",
+    "details_title": "Product details",
+    "add_to_cart": "Add to cart",
+    "update": "Update",
+    "out_of_stock": "Out of stock",
+    "increase": "Increase quantity",
+    "decrease": "Decrease quantity",
+    "back": "Back",
+    "share": "Share",
+    "cart": "Cart",
+    "close": "Close",
+    "added_to_cart": "Product added to your cart",
+    "cart_updated": "Cart updated",
+    "submit_failed": "Could not complete this, try again",
+    "error": "Could not load the product",
+    "share_title": "Share via ...",
+    "share_message": "Check out {name} on the Dr Jabal app"
+  },
+  "cart": {
+    "items_count": "Products: {count}",
+    "add_more": "Add more",
+    "subtotal": "Subtotal",
+    "checkout": "Continue to checkout",
+    "empty_title": "Your cart is empty",
+    "empty_message": "Products you add will show up here",
+    "discover": "Discover products",
+    "edit_item": "Edit product",
+    "remove_item": "Remove from cart",
+    "decrease": "Decrease quantity",
+    "increase": "Increase quantity"
+  },
+  "checkout": {
+    "delivery_address": "Delivery address",
+    "choose_address": "Choose a delivery address",
+    "order_summary": "Order summary",
+    "products_count": "{count} products",
+    "quantity": "Quantity: {count}",
+    "promo_code": "Discount code",
+    "promo_hint": "Enter the discount code",
+    "apply": "Apply",
+    "promo_applied": "🎉 Discount code applied",
+    "promo_invalid": "This discount code is not valid",
+    "payment_method": "Payment method",
+    "use_wallet": "Use wallet balance",
+    "wallet_balance": "Available balance: {amount}",
+    "cash": "Cash",
+    "apple_pay": "Apple Pay",
+    "add_card": "Add a card",
+    "card_added": "Card added successfully",
+    "payment_summary": "Payment summary",
+    "subtotal": "Subtotal",
+    "savings": "You save",
+    "discounts": "Discounts",
+    "delivery_fee": "Delivery fee",
+    "from_wallet": "From wallet",
+    "total": "Total amount",
+    "savings_info": "Everything you saved thanks to the discounts on the products.",
+    "discounts_info": "Discounts are applied automatically according to the available offers",
+    "delivery_fee_info": "The delivery fee depends on the distance and courier availability",
+    "got_it": "Got it",
+    "confirm_order": "Confirm order",
+    "terms_prefix": "By continuing you agree to the",
+    "terms": "Terms & Conditions",
+    "and": "and",
+    "privacy": "Privacy Policy",
+    "placed_title": "Order confirmed ✅",
+    "placed_message": "Thank you! Your order was sent and we will deliver it soon.",
+    "back_home": "Back to home",
+    "order_failed": "Could not complete the order, try again",
+    "load_failed": "Could not load the checkout",
+    "gateway_title": "Payment gateway page",
+    "gateway_demo_note": "Demo: replaced by the real gateway page once payments are connected",
+    "gateway_complete": "Complete payment",
+    "gateway_cancel": "Cancel"
+  },
+  "search": {
+    "hint": "Search for a product ...",
+    "clear": "Clear search",
+    "no_results_title": "Sorry, we couldn't find any matching results",
+    "no_results_message": "Try different search words or check the spelling",
+    "error": "Could not search, try again"
+  },
+  "share": {
+    "whatsapp": "WhatsApp",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "snapchat": "Snapchat",
+    "messenger": "Messenger",
+    "x": "X",
+    "copy_link": "Copy link",
+    "more": "More",
+    "close": "Close",
+    "link_copied": "Link copied",
+    "failed": "Could not share, make sure the app is installed"
+  }
+}
